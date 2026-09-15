@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+feedparser>=6.0
+groq>=0.11
+neonize>=0.4.0
+apscheduler>=3.10
+python-dotenv>=1.0
+pydantic>=2.0
+pydantic-settings>=2.0
+httpx>=0.27
+python-dateutil>=2.9.0

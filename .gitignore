@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+whatsapp.db*
+*.db-journal
+seen_ids.json
+.venv/
+venv/
